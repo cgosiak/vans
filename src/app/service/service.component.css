@@ -1,0 +1,18 @@
+.service_card {
+  width: 100%;
+  max-width: 512px;
+  margin-bottom: 2%;
+}
+
+.service_card > .mdl-card__title {
+  height: 176px;
+  background-size: cover;
+}
+
+.service_card > .mdl-card__supporting-text {
+  height: 176px;
+}
+
+.mdl-card__title-text {
+  color: white;
+}
